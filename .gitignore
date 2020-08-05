@@ -2,3 +2,7 @@ api_keys.txt
 twitter-archive-enhanced.csv
 image-predictions.tsv
 tweet_json.txt
+weratedogs_text.csv
+weratedogs_pred.csv
+weratedogs_metrics.csv
+weratedogs_metadata.csv
